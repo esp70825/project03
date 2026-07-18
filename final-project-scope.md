@@ -4,13 +4,14 @@
 
 ## Project Purpose
 **Why are we doing this project?**
-This projects's goal is to create a web site that will show major paint competitors (Sherwin-Williams, Behr, PPG, Glidden) product crossover to it's equivalent available at Lowe's
+This project's goal is to create a website that will show major paint competitors (Sherwin-Williams, Behr, PPG, Glidden) product crossover to their equivalent available at Lowe's. This will be done to facilitate cross-referencing
+when customer's usually shop at competitors. This will allow customers to shop confidently at Lowe's and make it easier for FSA's to sell products.
 
 ---
 
 ## Description
 **How would you describe this project?**
-A clean, responsive utility website designed for the SW LBU team. The interface will allow users to cross-reference enamels, primers, exterior, and interior paint tiers from major competitive brands against equivalent product alternatives found at Lowe's (such as Valspar and HGTV Home by Sherwin-Williams), complete with a visual grid framework.
+A clean, responsive utility website designed for the SW LBU team. The interface will allow users to cross-reference primers, exterior, and interior paint tiers from major competitive brands against equivalent product alternatives found at Lowe's (such as Valspar and HGTV Home by Sherwin-Williams), complete with a visual grid framework.
 
 
 ---
