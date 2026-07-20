@@ -33,7 +33,7 @@ A clean, responsive utility website designed for the SW LBU team. The interface 
 
 ## Exclusions
 **What is out of the project's scope and should NOT be included?**
-There will be no prices for any products, no customer information, and no input of any information by the user.
+There will be no prices for any products, no customer information, no input of any information by the user, no information regarding stock or inventory status, no specificities or qualities of each individual project. 
 
 ---
 
