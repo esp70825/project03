@@ -35,9 +35,10 @@ To eliminate this risk, I will implement a structured evening schedule with a de
 | 1.4 | Within **docs/** create a scope.md utilizing peer feedback | 1.3 | >1 Day | July 20 | July 20 | K | 
 | 1.5 | Within **docs/** create a plan.md that includes a risk analysis (TAME) and a simple task schedule | 1.3 | >1 Day | July 20 | July 20 | K | 
 | **2** | **Frontend Structure (HTML)**|  |  |  |  |  | 
-| 2.1 | Create index.html as the main homepage |  | 1 | July 21 | July 21 | K | 
-| 2.2 | Create about.html containing project bio |  | 1 | July 21 | July 21 | K | 
-| 2.3 | Ensure the connetivity of both pages | 2.1, 2.2 | 1 | July 21 | July 21 | K |
+| 2.1 | Create a **images/** folder in the repository and add all product images |  | 1 | July 21 | July 21 | K |
+| 2.2 | Create index.html as the main homepage |  | 1 | July 21 | July 21 | K | 
+| 2.3 | Create about.html containing project bio |  | 1 | July 21 | July 21 | K | 
+| 2.4 | Ensure the connetivity of both pages | 2.2, 2.3 | 1 | July 21 | July 21 | K |
 | **3** | **Visual Styling (CSS)** |  |  |  |  |  | 
 | 3.1 | Create style.css as an external stylesheet |  | 1 | July 22 | July 22 | K | 
 | 3.2 | Implement high contrast colors fro improved clarity  | 3.1 | 1 | July 22 | July 22 | K |
