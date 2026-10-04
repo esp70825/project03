@@ -160,6 +160,23 @@
     <td><img src="images/a100.jpg"></td>
   </tr>
 </table>
-     
+        <script>
+          fetch('prices.json')
+            .then(response => {
+              if (!response.ok) {
+                throw new Error('Could not find prices.json file');
+              }
+              return response.json();
+            })
+            .then(data => {
+              for (const [itemId, price] of Object.entries(data)) {
+                const element = document.getElementById(itemId);
+                if (element) {
+                  element.innerText = price;
+                }
+              }
+            })
+            .catch(error => console.error('Error loading prices:', error));
+        </script>
     </body>
 </html>
