@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lowe's Full Price Catalog</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+
+    <!-- Top Navigation with Action Buttons -->
+    <nav class="site-nav">
+      <a href="index.html" class="nav-btn head-back-btn">&larr; Head Back</a>
+      <a href="about.html" class="nav-btn about-btn">About</a>
+    </nav>
+
+    <h1>Lowe's Full Product Price List</h1>
+    <p class="price-disclaimer">*Note: Prices reflect online inventory for both 1-Gallon and 5-Gallon containers across available sheens.</p>
+
+    <!-- SECTION 1: HGTV SHERWIN-WILLIAMS PRIMERS (8 Products) -->
+    <h2>Primers</h2>
+    <div class="catalog-grid">
+
+      <div class="catalog-card">
+        <h3>HGTV Sherwin Williams PVA Primer</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$21.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$89.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>HGTV SW All Purpose Power Primer</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$24.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$99.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>HGTV SW High Hiding Gray Primer</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$22.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$94.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>HGTV SW Premium Power Primer</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$27.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$114.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>HGTV SW Restoration Primer</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$29.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$124.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>HGTV SW Mold & Mildew</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$28.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$119.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>HGTV SW Cabinet, Door & Trim</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$26.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$109.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>HGTV SW Oil Power Primer</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$25.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$104.98</span></div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- SECTION 2: VALSPAR PRIMERS (4 Products) -->
+    <h2></h2>
+    <div class="catalog-grid">
+
+      <div class="catalog-card">
+        <h3>Valspar PVA Primer</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$19.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$79.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>Valspar Oil Primer</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$23.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$96.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>Valspar Bonding Primer</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$24.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$99.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card">
+        <h3>Valspar High Hiding Blocking</h3>
+        <div class="size-stack">
+          <div class="price-row"><span class="size-label">1-Gallon</span><span class="price-val">$22.98</span></div>
+          <div class="price-row"><span class="size-label">5-Gallon</span><span class="price-val">$89.98</span></div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- SECTION 3: INTERIOR PAINTS (10 Products) -->
+    <h2>Interior Paints</h2>
+    <div class="catalog-grid">
+
+      <div class="catalog-card wide-card">
+        <h3>HGTV SW Infinity</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$62.98</span><span class="price-val">$302</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$66.98</span><span class="price-val">NA</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$70.98</span><span class="price-val">$340</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$74.98</span><span class="price-val">$359</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>Valspar Reserve</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$50.98</span><span class="price-val">$244</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$54.98</span><span class="price-val">$263</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$58.98</span><span class="price-val">$283</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$62.98</span><span class="price-val">$302</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>HGTV SW Showcase</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$45.98</span><span class="price-val">$219</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$50.98</span><span class="price-val">$244</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$54.98</span><span class="price-val">$263</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$58.98</span><span class="price-val">$283</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>Valspar Signature</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$42.98</span><span class="price-val">$???</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$46.98</span><span class="price-val">$215</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$50.98</span><span class="price-val">$244</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$54.98</span><span class="price-val">$263</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>HGTV SW Ovation</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$37.98</span><span class="price-val">$182</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$41.98</span><span class="price-val">$201</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$45.98</span><span class="price-val">$220</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$49.98</span><span class="price-val">$239</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>Valspar Ultra</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$29.98</span><span class="price-val">$140</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$35.98</span><span class="price-val">$164</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$42.98</span><span class="price-val">$178</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$43.98</span><span class="price-val">$197</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>HGTV SW Spec-Right</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$27.98</span><span class="price-val">$109.98</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$29.98</span><span class="price-val">$119.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$31.98</span><span class="price-val">$124.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$33.98</span><span class="price-val">$129.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>Valspar 2000</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$24.98</span><span class="price-val">$99.98</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$26.98</span><span class="price-val">$104.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$28.98</span><span class="price-val">$109.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$30.98</span><span class="price-val">$114.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>Valspar 4000</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$22.98</span><span class="price-val">$89.98</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$24.98</span><span class="price-val">$94.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$26.98</span><span class="price-val">$99.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$28.98</span><span class="price-val">$104.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>Valspar Express Coat</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$20.98</span><span class="price-val">$79.98</span></div>
+          <div class="matrix-row"><span>Eggshell</span><span class="price-val">$22.98</span><span class="price-val">$84.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$24.98</span><span class="price-val">$89.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$26.98</span><span class="price-val">$94.98</span></div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- SECTION 4: EXTERIOR PAINTS (6 Products) -->
+    <h2>Exterior Paints</h2>
+    <div class="catalog-grid">
+
+      <div class="catalog-card wide-card">
+        <h3>HGTV SW Everlast</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$48.98</span><span class="price-val">$199.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$54.98</span><span class="price-val">$219.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$57.98</span><span class="price-val">$229.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>Valspar Defense</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$46.98</span><span class="price-val">$189.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$52.98</span><span class="price-val">$209.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$55.98</span><span class="price-val">$219.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>HGTV SW WeatherShield</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$40.98</span><span class="price-val">$169.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$46.98</span><span class="price-val">$189.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$49.98</span><span class="price-val">$199.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>HGTV SW Duramax</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$36.98</span><span class="price-val">$149.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$42.98</span><span class="price-val">$169.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$45.98</span><span class="price-val">$179.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>Valspar SeasonFlex</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$31.98</span><span class="price-val">$129.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$37.98</span><span class="price-val">$149.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$40.98</span><span class="price-val">$159.98</span></div>
+        </div>
+      </div>
+
+      <div class="catalog-card wide-card">
+        <h3>Valspar Storm Coat</h3>
+        <div class="sheen-matrix">
+          <div class="matrix-header"><span>Sheen</span><span>1-Gallon</span><span>5-Gallon</span></div>
+          <div class="matrix-row"><span>Flat</span><span class="price-val">$28.98</span><span class="price-val">$114.98</span></div>
+          <div class="matrix-row"><span>Satin</span><span class="price-val">$32.98</span><span class="price-val">$124.98</span></div>
+          <div class="matrix-row"><span>Semi-Gloss</span><span class="price-val">$34.98</span><span class="price-val">$129.98</span></div>
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+</html>
